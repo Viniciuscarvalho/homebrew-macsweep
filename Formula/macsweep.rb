@@ -1,8 +1,8 @@
 class Macsweep < Formula
   desc "macOS Disk Space Optimizer - Clean caches, Xcode data, and Docker"
   homepage "https://github.com/Viniciuscarvalho/MacSweep"
-  url "https://github.com/Viniciuscarvalho/MacSweep/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "b62e66a33eab7a0debee05958103b3b12cde3055da746a58d939dd314a04bbcf"
+  url "https://github.com/Viniciuscarvalho/MacSweep/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "b9d91dd45ca7c7509b81d768d8774c85f0ef66cd3643300e3861426fb8e4e739"
   license "MIT"
   head "https://github.com/Viniciuscarvalho/MacSweep.git", branch: "main"
 
